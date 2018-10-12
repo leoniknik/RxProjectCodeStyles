@@ -1,9 +1,17 @@
 # Code style iOS (Swift) от компании RxProject
 
-## Содержание  
-### [Ширина страницы](#headers)  
-### [Именование](#emphasis)  
-### [Методы](#lists)  
+####Содержание
+                
++ [Ширина страницы](#headers)  
++ [Именование](#emphasis) 
++ [Методы](#lists)
+    + [Методы](#lists)
+    + Item B 2
+    + Item B 3
++ Item C
+    * Item C 1
+    * Item C 2
+    * Item C 3
 
 
 Ширина страницы
